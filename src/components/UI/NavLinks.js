@@ -15,7 +15,7 @@ const NavLinks = (props) => {
   const toggle = () => setIsOpen(!isOpen);
 
   return (
-    <div>
+    <div className='container'>
       <Navbar expand='md'>
         <NavbarBrand href='/'>rokket</NavbarBrand>
         <NavbarToggler onClick={toggle} />

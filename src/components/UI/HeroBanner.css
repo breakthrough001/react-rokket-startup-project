@@ -1,0 +1,38 @@
+.btn {
+  font-weight: 700;
+  width: 200px;
+  height: 60px;
+  left: 140px;
+  top: 565px;
+  border-radius: 50px;
+}
+
+.btn__primary {
+  background: #f6593e;
+  border: none;
+}
+
+.btn__ghost {
+  background: transparent;
+  border: 2px solid #fff;
+  margin-left: 20px;
+}
+
+.hero {
+  background-image: url("/src/share/background-image.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+}
+
+.hero__container {
+  height: 600px;
+  background: rgba(0, 0, 0, 0.418);
+}
+
+.headline {
+  font-weight: 700;
+  width: 400px;
+}

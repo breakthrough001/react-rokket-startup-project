@@ -1,0 +1,6 @@
+.testimonial__container {
+  background: linear-gradient(90deg, #250d65 0%, #6d38ed 101.6%);
+  border-radius: 15px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
