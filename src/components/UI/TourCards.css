@@ -1,4 +1,5 @@
 .card__bg {
-  background: linear-gradient(180deg, #6d38ed 0%, #4620a3 54.74%, #250d65 100%);
-  border-radius: 15px;
+    background: linear-gradient(180deg, #6d38ed 0%, #4620a3 54.74%, #250d65 100%);
+    border-radius: 15px;
+    width: 343px;
 }

@@ -5,7 +5,7 @@ const ExploreSection = () => {
   return (
     <div className='container mt-5'>
       <div className='row align-items-center'>
-        <img className='col-6 p-0' src='assets/images/planet.png'></img>
+        <img className='col-6 p-0' className="details__img" src='assets/images/planet.png'></img>
         <div className='col-6'>
           <h1>EXPLORE</h1>
           <p>
